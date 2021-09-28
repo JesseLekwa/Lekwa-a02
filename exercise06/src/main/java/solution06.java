@@ -25,8 +25,4 @@ public class solution06 {
 
     }
 
-    public void doStuff()
-    {
-
-    }
 }
